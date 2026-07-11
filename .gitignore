@@ -6,6 +6,7 @@ dist/
 build/
 sync/
 *.userdb/
+!rime_ice.userdb/
 installation.yaml
 user.yaml
 *.custom.yaml
